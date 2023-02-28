@@ -1,0 +1,21 @@
+
+	       Electronics Showroom Management System
+	      Phone No.: 9765564101 , Vengurla-416516
+=================================================================
+ Customer Name: Niket
+ Phone No.:9885566332
+ Invoice NO.: 20203853					Date: 20-11-2021
+=================================================================
+
+ Product Name 				Qty  Price(Rs.)  Total Price(Rs.)
+=================================================================
+        
+ OnePlus Bullets Wireless Z Bass Edition Bluetooth 				 1   1974		 1974.0
+=================================================================
+
+ Bill Amount						Rs.1974.0
+ Discount						Rs.98.7
+ Net Pay						Rs.1875.3
+=================================================================
+
+        
